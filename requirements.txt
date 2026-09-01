@@ -1,1 +1,1 @@
-textual[dev]
+textual[dev]==8.2.8
