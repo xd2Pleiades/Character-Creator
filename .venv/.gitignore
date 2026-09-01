@@ -1,8 +1,0 @@
-# created by virtualenv automatically
-
-__pycache__/
-pyvenv.cfg
-venv/
-env/
-.venv/
-textual/
